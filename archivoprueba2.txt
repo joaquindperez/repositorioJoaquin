@@ -1,1 +1,2 @@
-Hola, prueba a través de la interfaz del explorador de archivos
+Hola, prueba a través de la interfaz del explorador de archivos, además de realizar cambio dentro de VS Code
+Modificación
